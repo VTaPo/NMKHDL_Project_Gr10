@@ -1,0 +1,13 @@
+- Phân chia công việc cho từng thành viên trong nhóm sẽ ghi trong file .pdf phân công công việc.
+- Phần đánh giá chiến lược tổng thể: Làm tốt trên github để TA có thể đánh giá trên github luôn.
+- Link notion hoặc trello(nếu có) cũng để trong file .pdf phân chia công việc.
+- Khi ghi topic trên file gg sheet trên moodle:
+  + Ghi tên topic + Công cụ dùng để crawl dữ liệu.
+  + Link trang web để TA kiểm tra tính hợp lệ.
+- Chia từng quá trình cho mỗi notebook riêng, ví dụ:
+  + Thu thập dl.
+  + EDA dl.
+  + Xây dựng mô hình học máy trên dl.
+- Có mọi link tham khảo cho các mô hình, hàm hỗ trợ (nếu không tự thiết kế).
+- Khi thuyết trình tập trung vào cách tổ chức dữ liệu, lý thuyết về các kĩ thuật được sử dụng.
+Không cần trình bày kĩ code do đã có sẵn trong notebook, TA tự xem.
